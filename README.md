@@ -7,10 +7,10 @@ I also work with **SQL** and planning to learn **Web Development** soon.
 
 ## 🔭 Current Projects
 
-- **[Driving License Department Simulation](#)**  
+- **Driving & Vehicle License Department (DVLD)**  
   A desktop application to manage driving license tests and issuance, including exam management.  
 
-- **[My Translator](#)**  
+- **My Translator**  
   An AI-based translator desktop app that allows you to translate text quickly between any language or dialect.  
 
 ---
