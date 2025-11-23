@@ -25,6 +25,7 @@ I also work with **SQL** and planning to learn **Web Development** soon.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)
 ![WinForms](https://img.shields.io/badge/Windows_Forms-0078D4?style=flat&logo=windows&logoColor=white)
+![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 
 ---
 
