@@ -7,6 +7,9 @@ I also work with **SQL** and planning to learn **Web Development** soon.
 
 ## 🔭 Current Projects
 
+- **Clinic Management System (CMS)**  
+  A comprehensive clinic management program that focuses on efficiency and ease of use, with process tracking and a robust database for data storage.  
+
 - **Driving & Vehicle License Department (DVLD)**  
   A desktop application to manage driving license tests and issuance, including exam management.  
 
