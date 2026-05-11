@@ -6,7 +6,9 @@ I also work with **SQL** and planning to learn **Web Development** soon.
 ---
 
 ## 🔭 Current Projects
-
+- **Quizify**  
+  It is an application that helps you quickly review what you have studied by creating quizzes.
+  
 - **Clinic Management System (CMS)**  
   A comprehensive clinic management program that focuses on efficiency and ease of use, with process tracking and a robust database for data storage.  
 
@@ -15,9 +17,6 @@ I also work with **SQL** and planning to learn **Web Development** soon.
 
 - **My Translator**  
   An AI-based translator desktop app that allows you to translate text quickly between any language or dialect.
-
-- **Quizify**  
-  It is an application that helps you quickly review what you have studied by creating quizzes.
 
 ---
 
