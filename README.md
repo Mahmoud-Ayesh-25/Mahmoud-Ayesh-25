@@ -29,6 +29,8 @@ I also work with **SQL** and planning to learn **Web Development** soon.
 ![.NET Framework](https://img.shields.io/badge/.NET_Framework-512BD4?style=flat&logo=.net&logoColor=white)
 ![WinForms](https://img.shields.io/badge/Windows_Forms-0078D4?style=flat&logo=windows&logoColor=white)
 ![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
