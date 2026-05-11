@@ -14,7 +14,10 @@ I also work with **SQL** and planning to learn **Web Development** soon.
   A desktop application to manage driving license tests and issuance, including exam management.  
 
 - **My Translator**  
-  An AI-based translator desktop app that allows you to translate text quickly between any language or dialect.  
+  An AI-based translator desktop app that allows you to translate text quickly between any language or dialect.
+
+- **Quizify**  
+  It is an application that helps you quickly review what you have studied by creating quizzes.
 
 ---
 
