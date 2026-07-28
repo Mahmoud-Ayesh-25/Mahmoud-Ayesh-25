@@ -33,6 +33,17 @@ I also work with **SQL** and planning to learn **Web Development** soon.
 ![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET_Core-0078D4?style=flat&logo=dotnet&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-0078D4?style=flat&logo=windows&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![RESTful API](https://img.shields.io/badge/RESTful_API-02569B?style=flat&logo=rest&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)
+![ASP.NET Core Identity](https://img.shields.io/badge/Authentication_%26_Authorization-512BD4?style=flat&logo=dotnet&logoColor=white)
+![BCrypt](https://img.shields.io/badge/BCrypt-003B57?style=flat&logo=letsencrypt&logoColor=white)
+![HTTPS](https://img.shields.io/badge/HTTPS-005C97?style=flat&logo=https&logoColor=white)
+![CORS](https://img.shields.io/badge/CORS-FF6F00?style=flat&logo=googlechrome&logoColor=white)
+![Rate Limiting](https://img.shields.io/badge/Rate_Limiting-6A1B9A?style=flat&logo=shield&logoColor=white)
+![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET_Core_MVC-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 
 ---
 
