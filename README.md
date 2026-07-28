@@ -1,7 +1,6 @@
 # Hi, I'm Mahmoud 👋
 
-I'm a Software Developer using **C#** and **.NET Framework**.  
-I also work with **SQL** and now I'm learning **Web Development**.  
+I'm a **C#/.NET Developer** with experience in **Desktop Development**, **SQL Server**, and building **RESTful APIs** using **ASP.NET Core**, and currently learning **Web Development**.
 
 ---
 
