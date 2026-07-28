@@ -1,11 +1,14 @@
 # Hi, I'm Mahmoud 👋
 
-I'm a Desktop Applications Developer using **C#** and **.NET Framework**.  
-I also work with **SQL** and planning to learn **Web Development** soon.  
+I'm a Software Developer using **C#** and **.NET Framework**.  
+I also work with **SQL** and now I'm learning **Web Development**.  
 
 ---
 
-## 🔭 Current Projects
+## 🔭 Projects
+- **Students Web API**  
+  I built this project to apply and practice what I have learned about **RESTful APIs** and **API security**.
+
 - **Quizify**  
   It is an application that helps you quickly review what you have studied by creating quizzes.
   
